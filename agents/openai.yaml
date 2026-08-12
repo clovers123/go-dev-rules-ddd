@@ -1,0 +1,4 @@
+interface:
+  display_name: "GO Dev Rules: DDD"
+  short_description: "Go 四层 DDD 架构、工程规范与项目初始化脚手架"
+  default_prompt: "Use $go-dev-rules-ddd to implement this Go backend task with the OHS, Domain, ACL, and Infra architecture."
